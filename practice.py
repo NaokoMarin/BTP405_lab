@@ -9,4 +9,4 @@ def getFibonacciNumbers(n):
         fib_numbers.append(next_fib)
     return fib_numbers if n >=1 else [0]
 
-print(getFibonacciNumbers(10))
+print(getFibonacciNumbers(10)) 
